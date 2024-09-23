@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/python/MLOPS/mlruns/0/062fe1f341e349798582a14e916f00ac/artifacts
+end_time: 1726991247486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 062fe1f341e349798582a14e916f00ac
+run_name: gifted-bat-895
+run_uuid: 062fe1f341e349798582a14e916f00ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726991231489
+status: 3
+tags: []
+user_id: acer

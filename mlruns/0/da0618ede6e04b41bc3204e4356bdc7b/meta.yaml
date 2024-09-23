@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/python/MLOPS/mlruns/0/da0618ede6e04b41bc3204e4356bdc7b/artifacts
+end_time: 1726993775451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da0618ede6e04b41bc3204e4356bdc7b
+run_name: merciful-snake-583
+run_uuid: da0618ede6e04b41bc3204e4356bdc7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726993748787
+status: 3
+tags: []
+user_id: acer

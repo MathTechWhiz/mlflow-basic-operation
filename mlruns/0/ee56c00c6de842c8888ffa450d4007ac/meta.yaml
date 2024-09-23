@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/python/MLOPS/mlruns/0/ee56c00c6de842c8888ffa450d4007ac/artifacts
+end_time: 1727068009295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee56c00c6de842c8888ffa450d4007ac
+run_name: unequaled-panda-467
+run_uuid: ee56c00c6de842c8888ffa450d4007ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727067992582
+status: 3
+tags: []
+user_id: acer

@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/python/MLOPS/mlruns/0/eb639ed5ebbb4635a0b82e0047f780e8/artifacts
+deleted_time: 1727068361930
+end_time: 1727067725162
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: eb639ed5ebbb4635a0b82e0047f780e8
+run_name: bouncy-fish-479
+run_uuid: eb639ed5ebbb4635a0b82e0047f780e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727067707160
+status: 3
+tags: []
+user_id: acer
